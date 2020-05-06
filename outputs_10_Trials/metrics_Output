@@ -1,0 +1,31 @@
+********Output of the RHHH and 10-RHHH runs on the parsed trace file using 1000 counters*********
+RHHH run on 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+20000000 ips took 1.227184s (1.136007s-1.318361s) 73 HHHs
+0 accErrors 0 covErrors 67 exact hhhs
+10-RHHH on run 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+20000000 ips took 0.328018s (0.319262s-0.336774s) 73 HHHs
+3 accErrors 0 covErrors 67 exact hhhs
+
+********Output of the RHHH and 10-RHHH runs on the parsed trace file using 10000000 packets*********
+RHHH run on 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+10000000 ips took 0.594925s (0.586017s-0.603833s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+10-RHHH on run 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+10000000 ips took 0.162972s (0.161700s-0.164244s) 35 HHHs
+2 accErrors 0 covErrors 33 exact hhhs
+
+********Output of the RHHH and 10-RHHH runs on the parsed trace file using 8000000 packets*********
+RHHH run on 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+8000000 ips took 0.482964s (0.475254s-0.490673s) 28 HHHs
+1 accErrors 0 covErrors 26 exact hhhs
+10-RHHH on run 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+8000000 ips took 0.143453s (0.132708s-0.154198s) 28 HHHs
+2 accErrors 0 covErrors 26 exact hhhs
+
+********Output of the RHHH and 10-RHHH runs on the parsed trace file using 30000000 packets*********
+RHHH run on 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+30000000 ips took 1.771119s (1.763172s-1.779066s) 108 HHHs
+0 accErrors 0 covErrors 101 exact hhhs
+10-RHHH on run 1D-byte level hierarchies (H=5). 20M packets, 1000 counters per hierarchy node, 100K packets threshold.
+30000000 ips took 0.487809s (0.484418s-0.491201s) 110 HHHs
+3 accErrors 0 covErrors 101 exact hhhs

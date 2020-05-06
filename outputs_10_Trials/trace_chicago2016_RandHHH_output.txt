@@ -1,0 +1,65 @@
+Trial 1
+1000000 ips took 0.062407s (0.061622s-0.063192s) 43 HHHs
+1 accErrors 0 covErrors 35 exact hhhs
+2000000 ips took 0.122898s (0.119713s-0.126082s) 40 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+4000000 ips took 0.277399s (0.244909s-0.309888s) 39 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+8000000 ips took 0.508361s (0.470900s-0.545822s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+16000000 ips took 1.068341s (1.011215s-1.125468s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+32000000 ips took 1.973840s (1.899307s-2.048373s) 36 HHHs
+0 accErrors 0 covErrors 33 exact hhhs
+Trial 2
+1000000 ips took 0.060991s (0.059867s-0.062115s) 43 HHHs
+1 accErrors 0 covErrors 35 exact hhhs
+2000000 ips took 0.122788s (0.120812s-0.124764s) 40 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+4000000 ips took 0.246518s (0.238990s-0.254046s) 39 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+8000000 ips took 0.484057s (0.480581s-0.487534s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+16000000 ips took 0.955111s (0.947831s-0.962391s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+32000000 ips took 2.435173s (2.034890s-2.835457s) 36 HHHs
+0 accErrors 0 covErrors 33 exact hhhs
+Trial 3
+1000000 ips took 0.099229s (0.087792s-0.110665s) 43 HHHs
+1 accErrors 0 covErrors 35 exact hhhs
+2000000 ips took 0.124893s (0.117353s-0.132432s) 40 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+4000000 ips took 0.260817s (0.227966s-0.293668s) 39 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+8000000 ips took 0.510589s (0.479735s-0.541443s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+16000000 ips took 1.084575s (0.976914s-1.192236s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+32000000 ips took 1.888929s (1.866879s-1.910978s) 36 HHHs
+0 accErrors 0 covErrors 33 exact hhhs
+Trial 4
+1000000 ips took 0.062760s (0.060860s-0.064660s) 43 HHHs
+1 accErrors 0 covErrors 35 exact hhhs
+2000000 ips took 0.124250s (0.119955s-0.128545s) 40 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+4000000 ips took 0.245856s (0.240253s-0.251459s) 39 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+8000000 ips took 0.479996s (0.475820s-0.484171s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+16000000 ips took 0.953655s (0.949033s-0.958277s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+32000000 ips took 1.885394s (1.858568s-1.912220s) 36 HHHs
+0 accErrors 0 covErrors 33 exact hhhs
+Trial 5
+1000000 ips took 0.077376s (0.056284s-0.098467s) 43 HHHs
+1 accErrors 0 covErrors 35 exact hhhs
+2000000 ips took 0.131806s (0.121490s-0.142122s) 40 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+4000000 ips took 0.261232s (0.235919s-0.286545s) 39 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+8000000 ips took 0.724131s (0.644963s-0.803299s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+16000000 ips took 1.040510s (1.002630s-1.078390s) 35 HHHs
+1 accErrors 0 covErrors 33 exact hhhs
+32000000 ips took 1.919874s (1.858995s-1.980753s) 36 HHHs
+0 accErrors 0 covErrors 33 exact hhhs
